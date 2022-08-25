@@ -1,0 +1,15 @@
+.nav {
+  background-color: rgb(255, 0, 217);
+  display: flex;
+  text-align: end;
+}
+.ul {
+  justify-content: space-between;
+  flex-direction: row;
+  display: flex;
+  float: inline-end;
+  text-align: end;
+  padding: 30px;
+  margin: 10px;
+  text-indent: 0px;
+}
